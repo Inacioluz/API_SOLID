@@ -30,3 +30,24 @@ Gym Pass app.
 - [ ] Os dados da aplicação precisa estar em um banco de dados PostgresSQL
 - [ ] Todos lista a de dados precisam estar paginadas com 20 itens por página
 - [ ] O usuario deve ser identificado pelo um JWT
+
+
+## Stack utilizada
+
+
+**Back-end:** Node, Fastify
+
+**Outras:**
+
+- knex
+- sqlite3
+- TypeScript
+- eslint
+- bcryptjs 
+- @types/bcryptjs 
+- zod
+- dotenv
+- prisma
+- @prisma/client
+- tsup
+
