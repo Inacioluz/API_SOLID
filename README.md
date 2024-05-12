@@ -7,7 +7,7 @@ Gym Pass app.
 - [X] Deve ser possivel se cadastrar 
 - [x] Deve ser possivel se altenticar
 - [x] Deve ser possivel obter o perfil de um usuario logado
-- [ ] Deve ser possivel ibter número de chech-ins realizado pelo usuario logado
+- [x] Deve ser possivel ibter número de chech-ins realizado pelo usuario logado
 - [x] Deve ser possivel obter seu histórico de check-ins
 - [ ] Deve ser possivel buscar academias próximas 
 - [ ] Deve ser possivel o usuario buscar por academia pelo nome
