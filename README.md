@@ -50,4 +50,6 @@ Gym Pass app.
 - prisma
 - @prisma/client
 - tsup
+- testes unitários 
+- testes E2E
 
