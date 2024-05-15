@@ -1,7 +1,8 @@
 import { Environment } from 'vitest'
 
-export default <Environment><unknown>{
+export default <Environment>{
     name: 'prisma',
+    transformMode: 'ssr', // faltou essa linha
     async setup() {
         console.log('Setup')
 
